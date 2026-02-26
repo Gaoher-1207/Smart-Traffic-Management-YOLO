@@ -28,3 +28,6 @@ This project detects vehicles in real-time using YOLOv8 and dynamically estimate
 4. Run:
    python main.py
    
+## Project Output
+
+![Traffic Detection Output](output.png)
